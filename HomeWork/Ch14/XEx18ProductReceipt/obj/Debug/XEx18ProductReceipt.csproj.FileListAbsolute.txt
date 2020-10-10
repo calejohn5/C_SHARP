@@ -1,0 +1,27 @@
+C:\Murach\aspnet_46\Instructor\Extra Exercises\ex\XEx18ProductReceipt\XEx18ProductReceipt\bin\roslyn\csc.exe
+C:\Murach\aspnet_46\Instructor\Extra Exercises\ex\XEx18ProductReceipt\XEx18ProductReceipt\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Murach\aspnet_46\Instructor\Extra Exercises\ex\XEx18ProductReceipt\XEx18ProductReceipt\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Murach\aspnet_46\Instructor\Extra Exercises\ex\XEx18ProductReceipt\XEx18ProductReceipt\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Murach\aspnet_46\Instructor\Extra Exercises\ex\XEx18ProductReceipt\XEx18ProductReceipt\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Murach\aspnet_46\Instructor\Extra Exercises\ex\XEx18ProductReceipt\XEx18ProductReceipt\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Murach\aspnet_46\Instructor\Extra Exercises\ex\XEx18ProductReceipt\XEx18ProductReceipt\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Murach\aspnet_46\Instructor\Extra Exercises\ex\XEx18ProductReceipt\XEx18ProductReceipt\bin\roslyn\System.Collections.Immutable.dll
+C:\Murach\aspnet_46\Instructor\Extra Exercises\ex\XEx18ProductReceipt\XEx18ProductReceipt\bin\roslyn\System.Reflection.Metadata.dll
+C:\Murach\aspnet_46\Instructor\Extra Exercises\ex\XEx18ProductReceipt\XEx18ProductReceipt\bin\roslyn\vbc.exe
+C:\Murach\aspnet_46\Instructor\Extra Exercises\ex\XEx18ProductReceipt\XEx18ProductReceipt\bin\roslyn\VBCSCompiler.exe
+C:\Murach\aspnet_46\Instructor\Extra Exercises\ex\XEx18ProductReceipt\XEx18ProductReceipt\bin\roslyn\VBCSCompiler.exe.config
+C:\Murach\aspnet_46\Instructor\Extra Exercises\ex\XEx18ProductReceipt\XEx18ProductReceipt\bin\XEx18ProductReceipt.dll.config
+C:\Murach\aspnet_46\Instructor\Extra Exercises\ex\XEx18ProductReceipt\XEx18ProductReceipt\bin\XEx18ProductReceipt.dll
+C:\Murach\aspnet_46\Instructor\Extra Exercises\ex\XEx18ProductReceipt\XEx18ProductReceipt\bin\XEx18ProductReceipt.pdb
+C:\Murach\aspnet_46\Instructor\Extra Exercises\ex\XEx18ProductReceipt\XEx18ProductReceipt\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Murach\aspnet_46\Instructor\Extra Exercises\ex\XEx18ProductReceipt\XEx18ProductReceipt\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Murach\aspnet_46\Instructor\Extra Exercises\ex\XEx18ProductReceipt\XEx18ProductReceipt\obj\Debug\XEx18ProductReceipt.csprojResolveAssemblyReference.cache
+C:\Murach\aspnet_46\Instructor\Extra Exercises\ex\XEx18ProductReceipt\XEx18ProductReceipt\obj\Debug\XEx18ProductReceipt.dll
+C:\Murach\aspnet_46\Instructor\Extra Exercises\ex\XEx18ProductReceipt\XEx18ProductReceipt\obj\Debug\XEx18ProductReceipt.pdb
+D:\DRIVERS\Week 14 Lab - Starting Files (1)\XEx18ProductReceipt\obj\Debug\XEx18ProductReceipt.csprojAssemblyReference.cache
+D:\DRIVERS\Week 14 Lab - Starting Files (1)\XEx18ProductReceipt\obj\Debug\XEx18ProductReceipt.dll
+D:\DRIVERS\Week 14 Lab - Starting Files (1)\XEx18ProductReceipt\obj\Debug\XEx18ProductReceipt.pdb
+F:\AAAAAAA\Week 14 Lab - Starting Files (1)\XEx18ProductReceipt\obj\Debug\XEx18ProductReceipt.csprojAssemblyReference.cache
+F:\AAAAAAA\Week 14 Lab - Starting Files (1)\XEx18ProductReceipt\obj\Debug\XEx18ProductReceipt.csproj.CoreCompileInputs.cache
+F:\AAAAAAA\Week 14 Lab - Starting Files (1)\XEx18ProductReceipt\obj\Debug\XEx18ProductReceipt.dll
+F:\AAAAAAA\Week 14 Lab - Starting Files (1)\XEx18ProductReceipt\obj\Debug\XEx18ProductReceipt.pdb
