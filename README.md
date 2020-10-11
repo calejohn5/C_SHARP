@@ -1,2 +1,2 @@
 # Homework + Inventory management system I made in 2019...
-* current not working anymore for some reason. Will fix when I get the time
+* current interface issues related to master page make it difficult to navigate.  Will fix when I get the time
